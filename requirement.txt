@@ -3,3 +3,11 @@ numpy
 seaborn
 scikit-learn
 knn
+torch
+torchvision
+torchaudio
+torchmetrics
+tensorboard
+tqdm
+ipywidgets
+onnxruntime
